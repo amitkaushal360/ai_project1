@@ -5,3 +5,5 @@ python-dotenv
 langserve
 fastapi
 uvicorn
+sse_starlette
+langchain_community
